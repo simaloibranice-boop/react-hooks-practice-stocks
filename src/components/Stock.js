@@ -6,7 +6,7 @@ function Stock() {
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">{"Compant Name"}</h5>
-          <p className="card-text">{"Stock Price"}</p>
+          <p className="card-text">{"Stock Price"} | ${Stock.price} </p>
         </div>
       </div>
     </div>
